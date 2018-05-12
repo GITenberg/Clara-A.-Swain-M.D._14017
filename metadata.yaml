@@ -1,0 +1,27 @@
+_repo: Clara-A.-Swain-M.D._14017
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hoskins, Robert, Mrs.
+    alias: Hoskins, Charlotte Lewis Roundey
+    birthdate: 1837
+    gutenberg_agent_id: '5332'
+    url: http://www.gutenberg.org/2009/agents/5332
+description: ''
+gutenberg_issued: '2004-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14017'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swain, Clara A., 1834-1910'
+- !lcc 'BV'
+- !lcsh 'Women missionaries -- Biography'
+title: Clara A. Swain, M.D.
+url: http://www.gutenberg.org/ebooks/14017
